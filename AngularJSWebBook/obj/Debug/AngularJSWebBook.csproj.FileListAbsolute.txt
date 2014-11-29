@@ -4,3 +4,8 @@ C:\GitHub\AngularJSWebBook\AngularJSWebBook\bin\AngularJSWebBook.pdb
 C:\GitHub\AngularJSWebBook\AngularJSWebBook\obj\Debug\AngularJSWebBook.csprojResolveAssemblyReference.cache
 C:\GitHub\AngularJSWebBook\AngularJSWebBook\obj\Debug\AngularJSWebBook.dll
 C:\GitHub\AngularJSWebBook\AngularJSWebBook\obj\Debug\AngularJSWebBook.pdb
+C:\AngularJSWebBook\AngularJSWebBook\bin\AngularJSWebBook.dll
+C:\AngularJSWebBook\AngularJSWebBook\bin\AngularJSWebBook.pdb
+C:\AngularJSWebBook\AngularJSWebBook\obj\Debug\AngularJSWebBook.csprojResolveAssemblyReference.cache
+C:\AngularJSWebBook\AngularJSWebBook\obj\Debug\AngularJSWebBook.dll
+C:\AngularJSWebBook\AngularJSWebBook\obj\Debug\AngularJSWebBook.pdb
